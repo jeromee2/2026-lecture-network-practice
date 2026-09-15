@@ -1,9 +1,0 @@
-# 학생 제출물은 저장소에 올라가지 않습니다
-*/out/
-# 캡처 파일 - 개인정보가 들어갈 수 있음
-*.pcap
-*.pcapng
-__pycache__/
-*.pyc
-.DS_Store
-_workspace/
