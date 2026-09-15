@@ -1,0 +1,561 @@
+{
+  "www.microsoft.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:30.769533+00:00",
+      "chain": [
+        "www.microsoft.com",
+        "www.microsoft.com-c-3.edgekey.net",
+        "e13678.dscb.akamaiedge.net"
+      ],
+      "answers": {
+        "system": [
+          "23.49.206.40"
+        ],
+        "google": [
+          "23.49.206.40"
+        ],
+        "quad9": [
+          "23.63.226.92"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:47.439125+00:00",
+      "chain": [
+        "www.microsoft.com",
+        "www.microsoft.com-c-3.edgekey.net",
+        "e13678.dscb.akamaiedge.net"
+      ],
+      "answers": {
+        "system": [
+          "104.94.218.45"
+        ],
+        "google": [
+          "104.94.218.45"
+        ],
+        "quad9": [
+          "23.63.226.92"
+        ]
+      }
+    }
+  ],
+  "www.netflix.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:30.970339+00:00",
+      "chain": [
+        "www.netflix.com",
+        "www.prod.ftl.netflix.com"
+      ],
+      "answers": {
+        "system": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ],
+        "google": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ],
+        "quad9": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:47.763146+00:00",
+      "chain": [
+        "www.netflix.com",
+        "www.prod.ftl.netflix.com"
+      ],
+      "answers": {
+        "system": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ],
+        "google": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ],
+        "quad9": [
+          "207.45.72.1",
+          "207.45.73.1"
+        ]
+      }
+    }
+  ],
+  "www.adobe.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:31.250827+00:00",
+      "chain": [
+        "www.adobe.com",
+        "www.adobe.com.edgesuite.net",
+        "a1319.dscr.akamai.net"
+      ],
+      "answers": {
+        "system": [
+          "23.76.153.115",
+          "23.76.153.121"
+        ],
+        "google": [
+          "23.76.153.115",
+          "23.76.153.121"
+        ],
+        "quad9": [
+          "2.22.234.137",
+          "2.22.234.155"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:48.099157+00:00",
+      "chain": [
+        "www.adobe.com",
+        "www.adobe.com.edgesuite.net",
+        "a1319.dscr.akamai.net"
+      ],
+      "answers": {
+        "system": [
+          "23.67.53.155",
+          "23.67.53.169",
+          "23.67.53.185"
+        ],
+        "google": [
+          "23.35.218.227",
+          "23.35.218.232"
+        ],
+        "quad9": [
+          "2.22.234.137",
+          "2.22.234.155"
+        ]
+      }
+    }
+  ],
+  "www.cnn.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:31.433495+00:00",
+      "chain": [
+        "www.cnn.com",
+        "cnn-tls.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.51.5"
+        ],
+        "google": [
+          "151.101.131.5",
+          "151.101.195.5",
+          "151.101.3.5",
+          "151.101.67.5"
+        ],
+        "quad9": [
+          "151.101.131.5",
+          "151.101.195.5",
+          "151.101.3.5",
+          "151.101.67.5"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:48.398013+00:00",
+      "chain": [
+        "www.cnn.com",
+        "cnn-tls.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.51.5"
+        ],
+        "google": [
+          "151.101.131.5",
+          "151.101.195.5",
+          "151.101.3.5",
+          "151.101.67.5"
+        ],
+        "quad9": [
+          "151.101.131.5",
+          "151.101.195.5",
+          "151.101.3.5",
+          "151.101.67.5"
+        ]
+      }
+    }
+  ],
+  "www.apple.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:31.609236+00:00",
+      "chain": [
+        "www.apple.com",
+        "www-apple-com.v.aaplimg.com",
+        "www.apple.com.edgekey.net",
+        "e6858.dsce9.akamaiedge.net"
+      ],
+      "answers": {
+        "system": [
+          "23.49.205.28"
+        ],
+        "google": [
+          "23.63.77.47"
+        ],
+        "quad9": [
+          "23.217.69.53"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:48.782873+00:00",
+      "chain": [
+        "www.apple.com",
+        "www-apple-com.v.aaplimg.com",
+        "www.apple.com.edgekey.net",
+        "e6858.dsce9.akamaiedge.net"
+      ],
+      "answers": {
+        "system": [
+          "104.94.216.37"
+        ],
+        "google": [
+          "104.94.216.37"
+        ],
+        "quad9": [
+          "184.31.228.249"
+        ]
+      }
+    }
+  ],
+  "www.korea.ac.kr": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:31.861341+00:00",
+      "chain": [
+        "www.korea.ac.kr"
+      ],
+      "answers": {
+        "system": [
+          "163.152.6.10"
+        ],
+        "google": [
+          "163.152.6.10"
+        ],
+        "quad9": [
+          "163.152.6.10"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:49.177635+00:00",
+      "chain": [
+        "www.korea.ac.kr"
+      ],
+      "answers": {
+        "system": [
+          "163.152.6.10"
+        ],
+        "google": [
+          "163.152.6.10"
+        ],
+        "quad9": [
+          "163.152.6.10"
+        ]
+      }
+    }
+  ],
+  "www.stanford.edu": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:32.156046+00:00",
+      "chain": [
+        "www.stanford.edu",
+        "stanford.netlifyglobalcdn.com"
+      ],
+      "answers": {
+        "system": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ],
+        "google": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ],
+        "quad9": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:49.432384+00:00",
+      "chain": [
+        "www.stanford.edu",
+        "stanford.netlifyglobalcdn.com"
+      ],
+      "answers": {
+        "system": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ],
+        "google": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ],
+        "quad9": [
+          "15.197.167.90",
+          "3.33.186.135"
+        ]
+      }
+    }
+  ],
+  "www.bbc.co.uk": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:32.524053+00:00",
+      "chain": [
+        "www.bbc.co.uk",
+        "www.bbc.co.uk.pri.bbc.co.uk",
+        "bbc.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.48.81"
+        ],
+        "google": [
+          "151.101.0.81",
+          "151.101.128.81",
+          "151.101.192.81",
+          "151.101.64.81"
+        ],
+        "quad9": [
+          "151.101.0.81",
+          "151.101.128.81",
+          "151.101.192.81",
+          "151.101.64.81"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:49.948211+00:00",
+      "chain": [
+        "www.bbc.co.uk",
+        "www.bbc.co.uk.pri.bbc.co.uk",
+        "bbc.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.48.81"
+        ],
+        "google": [
+          "151.101.0.81",
+          "151.101.128.81",
+          "151.101.192.81",
+          "151.101.64.81"
+        ],
+        "quad9": [
+          "151.101.0.81",
+          "151.101.128.81",
+          "151.101.192.81",
+          "151.101.64.81"
+        ]
+      }
+    }
+  ],
+  "www.spotify.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:33.470100+00:00",
+      "chain": [
+        "www.spotify.com",
+        "atc.spotify.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.51.42"
+        ],
+        "google": [
+          "151.101.131.42",
+          "151.101.195.42",
+          "151.101.3.42",
+          "151.101.67.42"
+        ],
+        "quad9": [
+          "151.101.131.42",
+          "151.101.195.42",
+          "151.101.3.42",
+          "151.101.67.42"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:50.503843+00:00",
+      "chain": [
+        "www.spotify.com",
+        "atc.spotify.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.51.42"
+        ],
+        "google": [
+          "151.101.131.42",
+          "151.101.195.42",
+          "151.101.3.42",
+          "151.101.67.42"
+        ],
+        "quad9": [
+          "151.101.131.42",
+          "151.101.195.42",
+          "151.101.3.42",
+          "151.101.67.42"
+        ]
+      }
+    }
+  ],
+  "www.github.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:33.668414+00:00",
+      "chain": [
+        "www.github.com",
+        "github.com"
+      ],
+      "answers": {
+        "system": [
+          "20.200.245.247"
+        ],
+        "google": [
+          "20.200.245.247"
+        ],
+        "quad9": [
+          "20.27.177.113"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:50.748365+00:00",
+      "chain": [
+        "www.github.com",
+        "github.com"
+      ],
+      "answers": {
+        "system": [
+          "20.200.245.247"
+        ],
+        "google": [
+          "20.200.245.247"
+        ],
+        "quad9": [
+          "20.27.177.113"
+        ]
+      }
+    }
+  ],
+  "www.wikipedia.org": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:33.852546+00:00",
+      "chain": [
+        "www.wikipedia.org",
+        "dyna.wikimedia.org"
+      ],
+      "answers": {
+        "system": [
+          "103.102.166.224"
+        ],
+        "google": [
+          "103.102.166.224"
+        ],
+        "quad9": [
+          "103.102.166.224"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:50.995106+00:00",
+      "chain": [
+        "www.wikipedia.org",
+        "dyna.wikimedia.org"
+      ],
+      "answers": {
+        "system": [
+          "103.102.166.224"
+        ],
+        "google": [
+          "103.102.166.224"
+        ],
+        "quad9": [
+          "103.102.166.224"
+        ]
+      }
+    }
+  ],
+  "www.nytimes.com": [
+    {
+      "network": "original-wifi",
+      "collected_at": "2026-09-15T04:39:34.180851+00:00",
+      "chain": [
+        "www.nytimes.com",
+        "www.prd.map.nytimes.com",
+        "www.prd.map.nytimes.xovr.nyt.net",
+        "nytimes.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.49.164"
+        ],
+        "google": [
+          "151.101.1.164",
+          "151.101.129.164",
+          "151.101.193.164",
+          "151.101.65.164"
+        ],
+        "quad9": [
+          "151.101.1.164",
+          "151.101.129.164",
+          "151.101.193.164",
+          "151.101.65.164"
+        ]
+      }
+    },
+    {
+      "network": "phone-hotspot",
+      "collected_at": "2026-09-15T04:57:51.307260+00:00",
+      "chain": [
+        "www.nytimes.com",
+        "www.prd.map.nytimes.com",
+        "www.prd.map.nytimes.xovr.nyt.net",
+        "nytimes.map.fastly.net"
+      ],
+      "answers": {
+        "system": [
+          "146.75.49.164"
+        ],
+        "google": [
+          "151.101.1.164",
+          "151.101.129.164",
+          "151.101.193.164",
+          "151.101.65.164"
+        ],
+        "quad9": [
+          "151.101.1.164",
+          "151.101.129.164",
+          "151.101.193.164",
+          "151.101.65.164"
+        ]
+      }
+    }
+  ]
+}
