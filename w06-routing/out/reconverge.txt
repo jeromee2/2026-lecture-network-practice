@@ -1,0 +1,6 @@
+Task 2 measured on this host
+B4 r1 local table changed after cut: 0.14 s
+B4 whole-area convergence (R2 removed dead neighbor; all route tables stable): 36.41 s
+B5 restore to Full adjacencies and original route tables: 17.63 s
+C3 cost update to stable r1 table: 1.69 s
+Configured timers: Hello 10 s, Dead 40 s (FRR show ip ospf interface eth0).
